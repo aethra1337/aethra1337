@@ -4,7 +4,7 @@
 
 <br />
 
-## 💪🏻 Skills
+## Skills
 
 <br />
 
