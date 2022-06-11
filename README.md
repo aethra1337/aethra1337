@@ -1,21 +1,5 @@
 
 
-
-## Hi there , I'm Talha, a young developer and student from Turkey.(I'm 15 years old). I'm also known as "Aethra" on the Internet. ##
-
-
-<br />
-
-
-
-## 📞 Contact
-
-<a href="https://discord.com/users/764609552389242890" target="blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-
-                
-<a href="https://twitter.com/aethra1337" target="blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-
-    
 </div>
 
 <br />
@@ -32,7 +16,7 @@
 
 <br />
 
-## 🧪 My Github Stats
+## Github Stats
 
 <br />
 
