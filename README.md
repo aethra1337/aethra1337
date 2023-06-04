@@ -1,9 +1,7 @@
 
 
 </div>
-
 <br />
-
 ## Skills
 
 <br />
